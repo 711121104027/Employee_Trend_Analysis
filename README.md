@@ -20,3 +20,26 @@ The dataset is stored in Excel format and includes the following relational tabl
 ## 📎 Tools Used
 - **Power BI** (for modeling, DAX, and visualization)
 - **Microsoft Excel** (as data source)
+
+### 📌 Employee Overview Dashboard
+
+This dashboard provides a high-level view of employee data, including:
+
+- Total employee count, salary, bonus, and average experience
+- Department-wise and job role-wise employee distribution
+- Year-over-year salary trends
+- Interactive employee table with full details
+
+![Employee Overview Dashboard](./image/employee_overview.png)
+
+### 👔 Manager Insights Dashboard
+
+This dashboard helps analyze employee distribution and salary data based on selected managers:
+
+- Manager-based filtering with button slicers
+- Department-wise salary breakdown by job role
+- Total salary and employee count KPIs
+- Job role distribution bar chart
+
+![Manager Insights Dashboard](./image/manager_insights.png)
+
